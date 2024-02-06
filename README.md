@@ -1,5 +1,5 @@
 
-<h3>Hi I am Deepak</h3>
+<h3>Hi, I am Deepak</h3>
 <p>I am a frontend engineer focused on web fundamentals</p>
 <p>To know more about me please check my <a href="https://www.linkedin.com/in/deepakkumar20" rel="nofollow">LinkedIn</a> where I share my learnings</p>
 
