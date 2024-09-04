@@ -5,7 +5,7 @@
 
 
 ## Tech Stack
-<p dir="auto"><strong>Frontend Development:</strong> <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>React Native</code> </p>
+<p dir="auto"><strong>Frontend Development:</strong> <code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Tailwind</code> <code>Vue JS</code> <code>React Native</code> </p>
 
 <p dir="auto"><strong>Backend Development:</strong> <code>Express JS</code> <code>GraphQL</code>  <code>Firebase</code> </p>
 
